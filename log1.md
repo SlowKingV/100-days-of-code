@@ -1,0 +1,8 @@
+# 100 Days of Code - Round 1 in 2020
+## Day 1 - February 27. Thursday
+
+**Today's Progress:** I made progress in the 3rd Milestone of [OOP - TicTacToe](https://www.theodinproject.com/courses/ruby-programming/lessons/oop) game in Ruby! Also The 2nd Milestone got approved by the [Microverse Team](https://www.microverse.org/).
+
+**Thoughts:** I need to make full commitment to this program again.
+
+**Link to Work:** https://github.com/SlowKingV/oop-tictactoe
