@@ -1,30 +1,16 @@
-# 100 Days Of Code - Log
+# 100 Days of Code - Round 1 in 2020
+## Day 1 - February 27. Thursday
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Today's Progress:** I made progress in the 3rd Milestone of [OOP - TicTacToe](https://www.theodinproject.com/courses/ruby-programming/lessons/oop) game in Ruby! Also The 2nd Milestone got approved by the [Microverse Team](https://www.microverse.org/).
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** I need to make full commitment to this program again.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to Work:** https://github.com/SlowKingV/oop-tictactoe
 
-**Link to work:** [Calculator App](http://www.example.com)
+## Day 2 - February 28. Friday
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress:** My 3rd Milestone was approved!!! But I needed to fix some bugs beforehand and to reorganize the files (each class in a different file). Only the 4th Milestone is left and I plan to finish it on weekend.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** Now that I'm working alone I'm going faster but I need the skill to collaborate with others so I can't wait to finish this Course to request another partner.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to Work:** https://github.com/SlowKingV/oop-tictactoe
