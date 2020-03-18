@@ -14,3 +14,11 @@
 **Thoughts:** Now that I'm working alone I'm going faster but I need the skill to collaborate with others so I can't wait to finish this Course to request another partner.
 
 **Link to Work:** https://github.com/SlowKingV/oop-tictactoe
+
+## Day 3 - March 18. Wednesday
+
+**Today's Progress:** My capstone project for the *Microverse Ruby Course* has been approved!!! I finished all the details requested by the TSEs and started working on my Professional Skills so I can start with *Databases*
+
+**Thoughts:** I forget about posting here the last half month, and even if I did was coding the whole time I won't cheat and skip days here :muscle: (and I forget what I did the other days :grimacing:)
+
+**Link to Work:** https://github.com/SlowKingV/ruby-scraper
